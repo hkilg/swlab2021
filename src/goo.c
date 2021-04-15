@@ -4,5 +4,6 @@
 void goo()
 {
 	printf("goo\n");
+	printf("git tutorial\n");
 }
 
