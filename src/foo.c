@@ -1,7 +1,10 @@
 #include <stdio.h>
 #include "funcs.h"
 
-void foo()
+int foo()
 {
 	printf("Hello I'm foo\n");
+	printf("git tutorial\n");
+
+	return 0;
 }
